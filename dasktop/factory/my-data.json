@@ -1,0 +1,9 @@
+{
+	"name": "my-data",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "737fb167-0f19-48a0-8969-b0c9d3559e41",
+		"tenantId": "225c9b43-6625-490c-b8bd-fea78173857a"
+	}
+}
